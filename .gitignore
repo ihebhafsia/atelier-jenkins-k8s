@@ -1,0 +1,9 @@
+# Jenkins volume
+ci-cd-config/jenkins_home/
+
+# Binaires compilés
+client/client
+serveur/serveur
+
+# Divers
+*.o
